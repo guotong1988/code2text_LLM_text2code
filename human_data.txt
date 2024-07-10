@@ -1,0 +1,5 @@
+one plus one equals to what? # 1,1 # + # compute2number
+I have one apple. Peter has one apple. How many apples do I and Peter totally have? # 1,1 # + # compute2number
+I have three apple. Peter has one apple. How many apples do I have more than Peter? # 3,1 # - # compute2number
+1 + () = 2, () is what? # # 2,1 # - # compute2number
+() + 3 = 5, () is what? # # 5,3 # - # compute2number
