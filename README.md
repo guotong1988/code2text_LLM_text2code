@@ -4,10 +4,10 @@
 
 code construct text by permutation and combination 
 
-the label is the method name that the text mean to map to.
+code construct label (method name and method's parameter)
 
 ## Step-2, pretrained-LLM-post-train 
 
 ## Step-3, input-text-predict-code
 
-input the text and predict the method name and the method's parameter
+input the text and predict method name and method's parameter
