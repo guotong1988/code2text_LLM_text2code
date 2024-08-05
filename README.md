@@ -10,4 +10,4 @@ code construct label (method name and method's parameter)
 
 ## Step-3, input-text-predict-code
 
-input the text and predict method name and method's parameter
+input text and predict method name and method's parameter
