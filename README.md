@@ -1,6 +1,6 @@
 # code2text - LLM - text2code
 
-## Step-1, code-construct-data
+## Step-1, code-construct-data (text+label)
 
 code construct text by permutation and combination 
 
