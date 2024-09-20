@@ -1,13 +1,7 @@
 # code2text - LLM - text2code
 
-## Step-1, code-construct-data(text+label)
+code construct text and text2code label (method name and method's parameter)
 
-code construct text by permutation and combination 
+train text2code model
 
-code construct label (method name and method's parameter)
-
-## Step-2, pretrained-LLM-post-train 
-
-## Step-3, input-text-predict-code
-
-input text and predict method name and method's parameter
+text2code model input text and predict method name and method's parameter
