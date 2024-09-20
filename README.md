@@ -2,7 +2,7 @@
 
 code construct text and text2code-label (method name and method's parameter)
 
-train text2code model
+train text2code LLM model
 
 text2code model input text and predict code (method name and method's parameter)
 
